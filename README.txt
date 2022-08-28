@@ -3,3 +3,4 @@ THEN FOR THE SECOND ONE CLICK ASSETS THEN CLICKED SHARED THEN CLICK IMAGES THEN 
 ALSO THIS IS THE FIRST RELEASE IMMA DO MUCH MORE.
 Credits: StreamHaper And da one guy who made the Sans bf 
 also replace the old voices.ogg to the new one i provided
+And also credits to FlowerBearTTV
