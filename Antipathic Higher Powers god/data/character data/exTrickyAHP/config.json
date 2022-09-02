@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"animation_name": "Idle",
+			"looped": true,
+			"fps": 24,
+			"name": "idle"
+		},
+		{
+			"animation_name": "Sing Up",
+			"looped": true,
+			"fps": 24,
+			"name": "singUP"
+		},
+		{
+			"animation_name": "Sing Right",
+			"looped": true,
+			"fps": 24,
+			"name": "singRIGHT"
+		},
+		{
+			"animation_name": "Sing Down",
+			"looped": true,
+			"fps": 24,
+			"name": "singDOWN"
+		},
+		{
+			"animation_name": "Sing Left",
+			"looped": true,
+			"fps": 24,
+			"name": "singLEFT"
+		}
+	],
+	"dancesLeftAndRight": false,
+	"positionOffset": [
+		0,
+		-100
+	],
+	"defaultFlipX": false,
+	"coolThornsTrail": false,
+	"barColor": [
+		255,
+		0,
+		0
+	],
+	"cameraOffset": [
+		600,
+		75
+	],
+	"imagePath": "sprukextricky",
+	"offsetsFlipWhenEnemy": false,
+	"graphicsSize": 1,
+	"characters": [],
+	"offsetsFlipWhenPlayer": true
+}

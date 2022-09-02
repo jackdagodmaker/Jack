@@ -1,0 +1,14 @@
+{
+    "cameraOffset": [-40, -250],
+    "barColor": [141, 125, 241],
+    "characters": [
+        {
+            "name": "apathetic-pshaggy",
+            "positionOffset": [0,0]
+        },
+        {
+            "name": "exTrickyAHP",
+            "positionOffset": [0,0]
+        }
+    ]
+}
